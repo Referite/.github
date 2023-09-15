@@ -7,3 +7,8 @@
 Referite is a dynamic and innovative group where the worlds of "referee" and "write" seamlessly converge. 
 This unique blend of two powerful concepts embodies our passion for fair play, critical analysis, and creative expression. 
 
+## Mockup
+
+### Login Page
+![image](https://github.com/Referite/.github/assets/93331101/f0bcdb2b-a31a-408d-967f-6ff72dda02ad)
+### 
