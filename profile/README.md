@@ -4,8 +4,7 @@
 
 ## What is Referite?
 
-Referite is a dynamic and innovative group where the worlds of "referee" and "write" seamlessly converge. 
-This unique blend of two powerful concepts embodies our passion for fair play, critical analysis, and creative expression. 
+Referite is a web application for the Paris Organizing Committee to manage event scheduling and record medal results for the 2024 Olympic Games. It provides a referee login portal, real-time result tracking, data validation, and a user interface for managing competition details and country participation. 
 
 ## Mockup
 
