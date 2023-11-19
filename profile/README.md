@@ -7,6 +7,7 @@ Referite is an application developed as part of Software Process and Project man
 Its primary purpose is to assist the Paris Organizing Committee in efficiently handling event scheduling and documenting medal outcomes. The application features a referee login portal, real-time result tracking, data validation capabilities, and a user-friendly interface for overseeing competition details and country participation.
 
 ## Document
+- [Kanban/Scrum Dashboard](https://docs.google.com/spreadsheets/d/1c2e3baOqzSTM-ufWjT83Ho8MvovPmlPg5-bJYBsSqNA/edit#gid=544699543)
 - [Mockup](https://docs.google.com/presentation/d/1LrKqyG_6jWOptbto7mtSRAjzz1NhECmlAHxfAo4ZATg/edit#slide=id.p)
 - [User Story & Usecase Diagram](https://docs.google.com/document/d/1bbD9yb6VXKi9uSx2JhFFKm38Q0d0LP5y1TdcngZtlD4/edit?usp=sharing)
 - [Sequence Diagram](https://docs.google.com/document/d/1fDdy4Oab_smXw9usjjMrG8jhWJSlovcTkT9AGkMje7U/edit?usp=sharing)
