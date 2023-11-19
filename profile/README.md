@@ -3,8 +3,8 @@
 
 
 ## What is Referite?
-
-Referite is an application developed as part of software process and project management course to be utilized during the Paris 2024 Olympic Games. Its primary purpose is to assist the Paris Organizing Committee in efficiently handling event scheduling and documenting medal outcomes. The application features a referee login portal, real-time result tracking, data validation capabilities, and a user-friendly interface for overseeing competition details and country participation.
+&nbsp;&nbsp;&nbsp;&nbsp;Referite is an application developed as part of Software Process and Project management course 01219346-60 At Kasetsart's University to be utilized during the Paris 2024 Olympic Games.  
+&nbsp;&nbsp;&nbsp;&nbsp;Its primary purpose is to assist the Paris Organizing Committee in efficiently handling event scheduling and documenting medal outcomes. The application features a referee login portal, real-time result tracking, data validation capabilities, and a user-friendly interface for overseeing competition details and country participation.
 
 ## Document
 - [Mockup](https://docs.google.com/presentation/d/1LrKqyG_6jWOptbto7mtSRAjzz1NhECmlAHxfAo4ZATg/edit#slide=id.p)
