@@ -17,5 +17,5 @@ Its primary purpose is to assist the Paris Organizing Committee in efficiently h
 
 ## Deployment
 - [Referite-Backend](https://referite-6538ffaf77b0.herokuapp.com/)
-- [Referite-Frontend](Add later)
+- [Referite-Frontend](https://referite-frontend.vercel.app/)
 
